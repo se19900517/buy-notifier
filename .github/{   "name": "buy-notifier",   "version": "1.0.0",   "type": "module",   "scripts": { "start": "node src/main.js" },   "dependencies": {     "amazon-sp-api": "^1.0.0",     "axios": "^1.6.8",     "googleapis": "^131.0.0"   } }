@@ -1,0 +1,11 @@
+{
+  "name": "buy-notifier",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node src/main.js" },
+  "dependencies": {
+    "amazon-sp-api": "^1.0.0",
+    "axios": "^1.6.8",
+    "googleapis": "^131.0.0"
+  }
+}
